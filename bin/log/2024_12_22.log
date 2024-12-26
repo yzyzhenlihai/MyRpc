@@ -1,0 +1,37 @@
+[INFO] 2024-12-22-9:28:59	=======Log system startup======
+[INFO] 2024-12-22-9:28:59	configFile: ?????
+[INFO] 2024-12-22-9:28:59	rpcserverip: ?????
+[INFO] 2024-12-22-9:28:59	rpcserverport: ?????
+[INFO] 2024-12-22-9:28:59	zookeeperip: ?????
+[INFO] 2024-12-22-9:28:59	zookeeperport: ?????
+[INFO] 2024-12-22-10:3:1	=======Log system startup======
+[INFO] 2024-12-22-10:3:9	configFile: `Ûÿÿÿ
+[INFO] 2024-12-22-10:3:12	rpcserverip: `Ûÿÿÿ
+[INFO] 2024-12-22-10:3:14	rpcserverport: `Ûÿÿÿ
+[INFO] 2024-12-22-10:3:17	zookeeperip: `Ûÿÿÿ
+[INFO] 2024-12-22-10:3:22	zookeeperport: `Ûÿÿÿ
+[INFO] 2024-12-22-10:3:35	 Ûÿÿÿ is registered
+[INFO] 2024-12-22-10:6:16	=======Log system startup======
+[INFO] 2024-12-22-10:6:16	configFile: PêF£ý
+[INFO] 2024-12-22-10:6:16	rpcserverip: PêF£ý
+[INFO] 2024-12-22-10:6:16	rpcserverport: PêF£ý
+[INFO] 2024-12-22-10:6:16	zookeeperip: PêF£ý
+[INFO] 2024-12-22-10:6:16	zookeeperport: PêF£ý
+[INFO] 2024-12-22-10:8:10	=======Log system startup======
+[INFO] 2024-12-22-10:26:2	=======Log system startup======
+[INFO] 2024-12-22-10:28:56	=======Log system startup======
+[INFO] 2024-12-22-10:28:56	configFile: P	^tþ
+[INFO] 2024-12-22-10:28:56	rpcserverip: P	^tþ
+[INFO] 2024-12-22-10:28:56	rpcserverport: P	^tþ
+[INFO] 2024-12-22-10:28:56	zookeeperip: P	^tþ
+[INFO] 2024-12-22-10:28:56	zookeeperport: P	^tþ
+[INFO] 2024-12-22-10:28:56	UserServiceRpc is registered
+[INFO] 2024-12-22-10:28:56	there are 1 method totally
+[INFO] 2024-12-22-10:30:12	=======Log system startup======
+[INFO] 2024-12-22-10:30:12	configFile: test.conf
+[INFO] 2024-12-22-10:30:12	rpcserverip: 127.0.0.1
+[INFO] 2024-12-22-10:30:12	rpcserverport: 8000
+[INFO] 2024-12-22-10:30:12	zookeeperip: ð;¸²ü
+[INFO] 2024-12-22-10:30:12	zookeeperport: 8000
+[INFO] 2024-12-22-10:30:12	UserServiceRpc is registered
+[INFO] 2024-12-22-10:30:12	there are 1 method totally

@@ -1,0 +1,121 @@
+[INFO] 2024-12-26-10:32:18	=======Log system startup======
+[INFO] 2024-12-26-10:32:18	configFile: test.conf
+[INFO] 2024-12-26-10:32:18	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-10:32:18	rpcserverport: 8000
+[INFO] 2024-12-26-10:32:18	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-10:32:18	zookeeperport: 8000
+[INFO] 2024-12-26-10:32:18	UserServiceRpc is registered
+[INFO] 2024-12-26-10:32:18	there are 1 method totally
+[INFO] 2024-12-26-10:41:57	=======Log system startup======
+[INFO] 2024-12-26-10:41:57	configFile: test.conf
+[INFO] 2024-12-26-10:41:57	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-10:41:57	rpcserverport: 8000
+[INFO] 2024-12-26-10:41:57	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-10:41:57	zookeeperport: 2181
+[INFO] 2024-12-26-10:41:57	UserServiceRpc is registered
+[INFO] 2024-12-26-10:41:57	there are 1 method totally
+[INFO] 2024-12-26-10:41:57	Zookeeper server successfully connected
+[INFO] 2024-12-26-10:44:51	=======Log system startup======
+[INFO] 2024-12-26-10:44:51	configFile: test.conf
+[INFO] 2024-12-26-10:44:51	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-10:44:51	rpcserverport: 8000
+[INFO] 2024-12-26-10:44:51	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-10:44:51	zookeeperport: 2181
+[INFO] 2024-12-26-10:44:51	UserServiceRpc is registered
+[INFO] 2024-12-26-10:44:51	there are 1 method totally
+[INFO] 2024-12-26-10:44:51	Zookeeper server successfully connected
+[INFO] 2024-12-26-10:46:46	=======Log system startup======
+[INFO] 2024-12-26-10:46:46	configFile: test.conf
+[INFO] 2024-12-26-10:46:46	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-10:46:46	rpcserverport: 8000
+[INFO] 2024-12-26-10:46:46	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-10:46:46	zookeeperport: 2181
+[INFO] 2024-12-26-10:46:46	UserServiceRpc is registered
+[INFO] 2024-12-26-10:46:46	there are 1 method totally
+[INFO] 2024-12-26-10:46:46	Zookeeper server successfully connected
+[INFO] 2024-12-26-10:48:2	=======Log system startup======
+[INFO] 2024-12-26-10:48:2	configFile: test.conf
+[INFO] 2024-12-26-10:48:2	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-10:48:2	rpcserverport: 8000
+[INFO] 2024-12-26-10:48:2	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-10:48:2	zookeeperport: 2181
+[INFO] 2024-12-26-10:48:2	UserServiceRpc is registered
+[INFO] 2024-12-26-10:48:2	there are 1 method totally
+[INFO] 2024-12-26-10:48:2	Zookeeper server successfully connected
+[INFO] 2024-12-26-11:13:27	=======Log system startup======
+[INFO] 2024-12-26-11:13:27	configFile: test.conf
+[INFO] 2024-12-26-11:13:27	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-11:13:27	rpcserverport: 8000
+[INFO] 2024-12-26-11:13:27	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-11:13:27	zookeeperport: 2181
+[INFO] 2024-12-26-11:13:27	UserServiceRpc is registered
+[INFO] 2024-12-26-11:13:27	there are 1 method totally
+[INFO] 2024-12-26-11:13:27	Zookeeper server successfully connected
+[INFO] 2024-12-26-11:13:27	'/UserServiceRpc' is created successfully
+[INFO] 2024-12-26-11:13:27	'/UserServiceRpc/Login' is created successfully
+[INFO] 2024-12-26-11:19:55	=======Log system startup======
+[INFO] 2024-12-26-11:19:55	configFile: test.conf
+[INFO] 2024-12-26-11:19:55	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-11:19:55	rpcserverport: 8000
+[INFO] 2024-12-26-11:19:55	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-11:19:55	zookeeperport: 2181
+[INFO] 2024-12-26-11:19:55	UserServiceRpc is registered
+[INFO] 2024-12-26-11:19:55	there are 1 method totally
+[INFO] 2024-12-26-11:19:55	Zookeeper server successfully connected
+[INFO] 2024-12-26-11:22:31	=======Log system startup======
+[INFO] 2024-12-26-11:22:31	configFile: test.conf
+[INFO] 2024-12-26-11:22:31	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-11:22:31	rpcserverport: 8000
+[INFO] 2024-12-26-11:22:31	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-11:22:31	zookeeperport: 2181
+[INFO] 2024-12-26-11:22:31	UserServiceRpc is registered
+[INFO] 2024-12-26-11:22:31	there are 1 method totally
+[INFO] 2024-12-26-11:22:31	Zookeeper server successfully connected
+[INFO] 2024-12-26-11:22:31	'/UserServiceRpc' is created successfully
+[INFO] 2024-12-26-11:22:31	'/UserServiceRpc/Login' is created successfully
+[INFO] 2024-12-26-11:49:11	===============Log system startup==============
+[INFO] 2024-12-26-11:49:11	configFile: test.conf
+[INFO] 2024-12-26-11:49:11	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-11:49:11	rpcserverport: 8000
+[INFO] 2024-12-26-11:49:11	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-11:49:11	zookeeperport: 2181
+[INFO] 2024-12-26-11:49:11	UserServiceRpc is registered
+[INFO] 2024-12-26-11:49:11	there are 1 method totally
+[INFO] 2024-12-26-11:49:11	Zookeeper server successfully connected
+[INFO] 2024-12-26-11:49:49	===============Log system startup==============
+[INFO] 2024-12-26-11:49:49	configFile: test.conf
+[INFO] 2024-12-26-11:49:49	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-11:49:49	rpcserverport: 8000
+[INFO] 2024-12-26-11:49:49	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-11:49:49	zookeeperport: 2181
+[INFO] 2024-12-26-11:49:49	Zookeeper server successfully connected
+[INFO] 2024-12-26-11:49:49	'/UserServiceRpc/Login' data query successfully
+[DEBUG] 2024-12-26-11:49:49	GetZNodeData is '127.0.0.'
+[INFO] 2024-12-26-12:0:33	===============Log system startup==============
+[INFO] 2024-12-26-12:0:33	configFile: test.conf
+[INFO] 2024-12-26-12:0:33	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-12:0:33	rpcserverport: 8000
+[INFO] 2024-12-26-12:0:33	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-12:0:33	zookeeperport: 2181
+[INFO] 2024-12-26-12:0:33	UserServiceRpc is registered
+[INFO] 2024-12-26-12:0:33	there are 1 method totally
+[INFO] 2024-12-26-12:0:33	Zookeeper server successfully connected
+[INFO] 2024-12-26-12:0:33	'/UserServiceRpc/Login' is created successfully
+[INFO] 2024-12-26-12:1:12	===============Log system startup==============
+[INFO] 2024-12-26-12:1:12	configFile: test.conf
+[INFO] 2024-12-26-12:1:12	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-12:1:12	rpcserverport: 8000
+[INFO] 2024-12-26-12:1:12	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-12:1:12	zookeeperport: 2181
+[INFO] 2024-12-26-12:1:12	Zookeeper server successfully connected
+[INFO] 2024-12-26-12:1:12	'/UserServiceRpc/Login' data query successfully
+[DEBUG] 2024-12-26-12:1:12	GetZNodeData is '127.0.0.1:8000'
+[INFO] 2024-12-26-12:3:36	===============Log system startup==============
+[INFO] 2024-12-26-12:3:36	configFile: test.conf
+[INFO] 2024-12-26-12:3:36	rpcserverip: 127.0.0.1
+[INFO] 2024-12-26-12:3:36	rpcserverport: 8000
+[INFO] 2024-12-26-12:3:36	zookeeperip: 127.0.0.1
+[INFO] 2024-12-26-12:3:36	zookeeperport: 2181
+[INFO] 2024-12-26-12:3:36	Zookeeper server successfully connected
+[INFO] 2024-12-26-12:3:36	'/UserServiceRpc/Login' data query successfully
+[DEBUG] 2024-12-26-12:3:36	GetZNodeData is '127.0.0.1:8000'

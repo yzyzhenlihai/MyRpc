@@ -1,0 +1,31 @@
+syntax = "proto3"; //定义语法版本
+package  contacts;//包的概念，等价于C++的命名空间
+
+//生成service服务类和rpc服务描述（默认是不生成的）
+option cc_generic_services=true;
+
+//枚举类型
+enum Color{
+    Red=0;//The first enum value must be zero in proto3.
+    Blue=6;
+}
+//定义消息类型，需要序列化目标
+message Address{
+    int32 num=1;
+    bytes addr=2;
+}
+message Person{
+
+    repeated bytes name = 1; //repeated表示动态数组
+    //bytes name = 1; 
+    int32 age = 2;
+    int32 sex = 3;
+    Address addr=4;
+    Color color=5;//嵌套类型
+}
+
+//定义rpc方法的描述，一个服务类
+service RpcFunc{
+    rpc Login(Address) returns(Person);
+
+}

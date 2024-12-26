@@ -1,0 +1,8 @@
+syntax = "proto3";
+package RpcHeader;
+
+message RpcHeader{
+    bytes serviceName = 1; //服务名称
+    bytes methodName = 2;  //方法名称
+    int32 argSize = 3;   //参数长度
+};

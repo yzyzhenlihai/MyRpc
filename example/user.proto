@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option cc_generic_services=true;
+
+//定义请求参数
+message UserRequest{
+    bytes name=1;
+    bytes password=2;
+}
+//定义响应码
+message ResultCode{
+    int32 errcode=1;
+    bytes errmsg=2;
+}
+//定义响应参数
+message UserResponse{
+    ResultCode result=1;
+    bool success=2;
+}
+
+//注册rpc服务
+service UserServiceRpc{
+    rpc Login(UserRequest) returns(UserResponse);
+}
